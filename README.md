@@ -1,6 +1,6 @@
 ## Howdy! I'm Jeff Soczek 👨‍🚀
 
-I don't code much but I maintain a blog at [w1zard.com]
+I don't code much but I maintain a blog at [w1zard.com]<br/>
 You can check my articles and writeups there.
 
 - :seedling: &nbsp;I’m currently learning **Python**
