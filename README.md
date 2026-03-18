@@ -18,14 +18,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jsoczek/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://tryhackme.com/p/w1zard" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  /></a>
   <a href="https://x.com/__w1zard" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
